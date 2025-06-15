@@ -14,6 +14,7 @@
 * OS: Windows 11
 * Build: 10.0.22000.0
 * Architecture: x64
+* Language: en, zh
 
 ## Certificate installation
 1. Right-click on the ".msixbundle" file and select "Properties". Then, go to the "Digital Signatures" tab. In the "Embedded Signatures" section, select an entry, click "Details", then "View Certificate", and finally "Install Certificate...".
