@@ -17,7 +17,7 @@
 
 ## Requirements
 * OS: Windows 11
-* Minimum Build: 10.0.22000.0
+* Build: 10.0.22000.0 or higher.
 * Architecture: x64
 
 ## Certificate installation
