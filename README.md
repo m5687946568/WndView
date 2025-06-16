@@ -1,5 +1,5 @@
 # WndView
-![alt text](https://github.com/m5687946568/WndView/blob/master/WndView/Preview/Preview.jpg?raw=true)
+![](./WndView/Preview/Preview.jpg)
 
 ## How to use
 **On icon of the taskbar:**
@@ -10,11 +10,15 @@
 * Click the right mouse button: Select the program
 * Hold down the left mouse button: Move the window
 
+## Usage Notes
+* Supported languages: English, Traditional Chinese
+* The capture program cannot use exclusive full-screen mode.
+* The capture program must run in the foreground.
+
 ## Requirements
 * OS: Windows 11
-* Build: 10.0.22000.0
+* Minimum Build: 10.0.22000.0
 * Architecture: x64
-* Language: en, zh
 
 ## Certificate installation
 1. Right-click on the ".msixbundle" file and select "Properties". Then, go to the "Digital Signatures" tab. In the "Embedded Signatures" section, select an entry, click "Details", then "View Certificate", and finally "Install Certificate...".
